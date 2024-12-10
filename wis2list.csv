@@ -3,16 +3,18 @@ Brazil,III,Global Broker,	br-inmet-global-broker,Pre-operational
 China,II,Global Broker,cn-cma-global-broker,Pre-operational
 France,VI,Global Broker,fr-meteofrance-global-broker,Pre-operational
 United States of America,IV,Global Broker,us-noaa-global-broker,Pre-operational
-Germany,VI,Global Cache, de-dwd-global-cache,Pre-operational
-Japan,II,Global Cache, jp-jma-global-cache,Pre-operational
-Republic of Korea,II,lobal Cache, kr-kma-global-cache,In-progress
+Germany,VI,Global Cache,de-dwd-global-cache,Pre-operational
 China,II,Global Cache,cn-cma-global-cache,Pre-operational
+Japan,II,Global Cache,jp-jma-global-cache,Pre-operational
+Republic of Korea,II,global Cache, kr-kma-global-cache,Pre-operational
+Saudi Arabia, II,Global Cache,sa-ncm-global-cache,Pre-operational
 UK/USA,VI/IV,Global Cache,data-metoffice-noaa-global-cache,Pre-operational
 Canada,IV,Global Discovery Catalogue,ca-eccc-msc-global-discovery-catalogue,Pre-operational
 China,II,Global Discovery Catalogue,cn-cma-global-discovery-catalogue,Pre-operational
-Republic of Korea,II,Global Discovery Catalogue,kr-kma-global-discovery-catalogue,In-progress
-China,II,Global Monitor,cn-cma-global-monitor,In-progress
-Morocco,I,Global Monitor,ma-meteomaroc-global-monitor,In-progress
+China,II,Global Monitor,cn-cma-global-monitor,Pre-operational
+Morocco,I,Global Monitor,ma-meteomaroc-global-monitor,Pre-operational
+Germany,VI,GTS to WIS2 Gateway,de-dwd-gts-to-wis2,Pre-operational
+Japan,II,GTS to WIS2 Gateway,jp-jma-gts-to-wis2,Pre-operational
 Anguilla,IV,WIS2Node(NC),ai-metservice,Pre-operational
 Antigua and Barbuda,IV,WIS2Node(NC),ag-antiguamet,Pre-operational
 Argentina,III,WIS2Node(NC),ar-smn,Pre-operational
@@ -63,6 +65,7 @@ Poland,VI,WIS2Node(NC),pl-imgw,Pre-operational
 Republic of Korea,II,WIS2Node(NC),kr-kma,Pre-operational
 Russian Federation,VI,WIS2Node(NC),ru-aviamettelecom,Pre-operational
 Saint Lucia,IV,WIS2Node(NC),lc-metservice,Pre-operational
+Saudi Arabia,II,WIS2Node(NC),sa-ncm,Pre-operational
 Singapore,V,WIS2Node(NC),sg-mss,Pre-operational
 Singapore,V,WIS2Node(DCPC),sg-mss-asmc,Pre-operational
 South Africa,I,WIS2Node(NC),za-weathersa,Pre-operational
