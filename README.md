@@ -1,2 +1,2 @@
-# wis2-implementation-progress
+# wis2-implementation-transition
 This is to discuss WIS2 implementation aspects. This may lead to change in the specifications or recipes in the cookbook or nothing...
