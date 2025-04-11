@@ -1,2 +1,2 @@
-# wis2-implementation-progress
-This is to monitor the status of WIS2 implementation. 
+# wis2-implementation-transition
+This is a repository to discuss implementation/evolution of WIS2
